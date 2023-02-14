@@ -1,0 +1,1 @@
+# all-operations-function-of-Map-
